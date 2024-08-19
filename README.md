@@ -13,12 +13,12 @@
 
 <br><br>
 
-| [ 📦 프로젝트 소개 📦 ](#box-프로젝트-소개)|
+| [ 📦 프로젝트 소개 📦 ](![image](https://github.com/user-attachments/assets/cc743649-d247-4754-9dbc-c9f35fe7f2b7))|
 | :---: |
-| [ 🦝 팀원 소개 🦝 ](#raccoondog-팀원-소개)|
-| [💼 개발 환경 💼 ](#briefcase-사용-기술-스택) |
-| [🎮 주요 기능 🎮](#gmae-기술적-고민과-트러블-슈팅) |
-| [🔄️ 버전 업데이트 🔄️](#update-만든-사람들) |
+| [ 🦝 팀원 소개 🦝 ](![image](https://github.com/user-attachments/assets/9a867d1e-9a73-4742-ab47-d4ee77acfc10))|
+| [💼 개발 환경 💼 ](![image](https://github.com/user-attachments/assets/b93c88fe-e0d5-4ef9-8b74-fac46aaede77)) |
+| [🎮 주요 기능 🎮](![image](https://github.com/user-attachments/assets/ffff37a6-e040-45b7-9809-4f2b6e08a0cd)) |
+| [🔄️ 버전 업데이트 🔄️](![image](https://github.com/user-attachments/assets/f09067bf-875c-4ad4-8e50-fc5e675f7315)) |
 
 <br/><br/>
 
@@ -62,12 +62,12 @@
 
 <br/><br/>
 
-|팀원|이름|역할|
-|------|---|---|
-|🦁 팀장 🦁|최지원|<p>$\oldstyle{Game\ Dirater,\ Game\ Designer}$</p>|
-|🐰 부팀장 🐰|정이현|<p>$\oldstyle{Game Count\ Function,\ SaveLoadScene\ Manager}$</p>|
-|🦉 팀원 🦉|박인수|<p>$\oldstyle{Game\ Developer,\ Client\ Programmer}$</p>|
-|🐤 팀원 🐤|유승아|<p>$\oldstyle{Scene\ Manager,\ Audio\ Manager}$</p>|
+| 팀원|이름|역할 |
+| ------|---|--- |
+| 🦁 팀장 🦁|최지원|<p>$\oldstyle{Game\ Dirater,\ Game\ Designer}$</p> |
+| 🐰 부팀장 🐰|정이현|<p>$\oldstyle{Game Count\ Function,\ SaveLoadScene\ Manager}$</p> |
+| 🦉 팀원 🦉|박인수|<p>$\oldstyle{Game\ Developer,\ Client\ Programmer}$</p> |
+| 🐤 팀원 🐤|유승아|<p>$\oldstyle{Scene\ Manager,\ Audio\ Manager}$</p> |
 
 <br/><br/>
  
@@ -89,14 +89,14 @@
 
 <br/><br/>
  
-# 🎮 주요 기능
+![image](https://github.com/user-attachments/assets/ffff37a6-e040-45b7-9809-4f2b6e08a0cd)
 
    
 <br/><br/>
 
-# 💫 버전 업데이트 
+![image](https://github.com/user-attachments/assets/3ef43eee-6130-4931-a4be-0c8d9c2a25f0)
 
 <br/>
 
-# 🌲 기능 세부 🌲
+![image](https://github.com/user-attachments/assets/f09067bf-875c-4ad4-8e50-fc5e675f7315)
 
