@@ -13,13 +13,13 @@
 
 <br><br>
 
-| [ 📦 프로젝트 소개 📦 ](프로젝트-소개)|
+| [ 📦 프로젝트 소개 📦 ](https://github.com/user-attachments/assets/cc743649-d247-4754-9dbc-c9f35fe7f2b7)|
 | :---: |
-| [ 🦝 팀원 소개 🦝 ](팀원-소개)|
-| [💼 개발 환경 💼 ](개발-환경) |
-| [🎮 주요 기능 🎮](주요-기능) |
-| [🔄️ 버전 업데이트 🔄️](버전-업데이트) |
-| [🛠️ 기능 세부 🛠️](기능-세부) |
+| [ 🦝 팀원 소개 🦝 ](https://github.com/user-attachments/assets/9a867d1e-9a73-4742-ab47-d4ee77acfc10)|
+| [💼 개발 환경 💼 ](https://github.com/user-attachments/assets/b93c88fe-e0d5-4ef9-8b74-fac46aaede77)|
+| [🎮 주요 기능 🎮](https://github.com/user-attachments/assets/ffff37a6-e040-45b7-9809-4f2b6e08a0cd) |
+| [🔄️ 버전 업데이트 🔄️](https://github.com/user-attachments/assets/3ef43eee-6130-4931-a4be-0c8d9c2a25f0) |
+| [🛠️ 기능 세부 🛠️](https://github.com/user-attachments/assets/f09067bf-875c-4ad4-8e50-fc5e675f7315) |
 
 <br/><br/>
 
