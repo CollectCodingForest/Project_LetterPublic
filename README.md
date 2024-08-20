@@ -5,6 +5,11 @@
 
 <br><br>
 <br><br>
+
+[⭐팀 노션으로 이동](https://teamsparta.notion.site/2da00c2f0cb146fdbcd9a6b110d43708)
+
+[🕹️게임 플레이](https://yooseunga52.itch.io/whats-in-it)
+
 <br/><br/>
 <br><br>
 
@@ -14,10 +19,10 @@
 
 <br><br>
 
-| [ 📦 프로젝트 소개 📦 ](#[프로젝트 소개](https://github.com/user-attachments/assets/cc743649-d247-4754-9dbc-c9f35fe7f2b7))|
+| [ 📦 프로젝트 소개 📦 ](https://github.com/user-attachments/assets/cc743649-d247-4754-9dbc-c9f35fe7f2b7)|
 | :---: |
-| [ 🦝 팀원 소개 🦝 ](#[팀원 소개](https://github.com/user-attachments/assets/9a867d1e-9a73-4742-ab47-d4ee77acfc10))|
-| [💼 개발 환경 💼 ](#[개발 환경](https://github.com/user-attachments/assets/b93c88fe-e0d5-4ef9-8b74-fac46aaede77))|
+| [ 🦝 팀원 소개 🦝 ](https://github.com/user-attachments/assets/9a867d1e-9a73-4742-ab47-d4ee77acfc10)|
+| [💼 개발 환경 💼 ](https://github.com/user-attachments/assets/b93c88fe-e0d5-4ef9-8b74-fac46aaede77)|
 | [🎮 주요 기능 🎮](https://github.com/user-attachments/assets/ffff37a6-e040-45b7-9809-4f2b6e08a0cd) |
 | [🛠️ 기능 세부 🛠️](https://github.com/user-attachments/assets/f09067bf-875c-4ad4-8e50-fc5e675f7315) |
 
@@ -114,14 +119,30 @@
  
 ![주요 기능](https://github.com/user-attachments/assets/ffff37a6-e040-45b7-9809-4f2b6e08a0cd)
 
+<br/><br/>
 
+| 마우스 드래그 |
+| :---: |
+| 서류 |
+| 서류 비교 및 검토 |
+| 심문 |
+| 정산 화면 |
 
 
    
 <br/><br/>
 
+* * *
 
 ![기능 세부](https://github.com/user-attachments/assets/f09067bf-875c-4ad4-8e50-fc5e675f7315)
 
+<br/><br/>
+
+| 사용한 | 기술 | 스택 |
+| :------: | :------: | :---: |
+| [Observer Pattern]() | [Singleton Pattern]()| [MVC Pattern]() |
+| [Object Pool]()| [Bit Flag]()| [Scriptable Object]() |
+| [CSV]() | [Generic Method]()| [Coroutine, DoTween]() |
+| [UI Raycast]() | [Custom Editor]()| <p>$\oldstyle{Made\ By.\ Collect\ Coding\ Forest}$</p>
 
 
