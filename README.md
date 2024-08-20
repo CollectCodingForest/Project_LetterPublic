@@ -19,7 +19,7 @@
 
 <br><br>
 
-| [ 📦 프로젝트 소개 📦 ](1.-Observer-Pattern-옵저버-패턴)|
+| [ 📦 프로젝트 소개 📦 ]()|
 | :---: |
 | [ 🦝 팀원 소개 🦝 ](https://github.com/user-attachments/assets/9a867d1e-9a73-4742-ab47-d4ee77acfc10)|
 | [💼 개발 환경 💼 ](https://github.com/user-attachments/assets/b93c88fe-e0d5-4ef9-8b74-fac46aaede77)|
