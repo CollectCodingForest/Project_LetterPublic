@@ -140,7 +140,7 @@
 
 | 사용한 | 기술 | 스택 |
 | :------: | :------: | :---: |
-| [Observer Pattern](technology-stack-기술-스택/1.-Observer-Pattern-옵저버-패턴) | [Singleton Pattern]()| [MVC Pattern]() |
+| [Observer Pattern]([technology-stack-기술-스택/1.-Observer-Pattern-옵저버-패턴](https://github.com/CollectCodingForest/Project_LetterPublic/blob/main/technology%20stack%20%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D/1.%20Observer%20Pattern%20%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4.md#1-%EC%98%B5%EC%A0%80%EB%B2%84-%ED%8C%A8%ED%84%B4)) | [Singleton Pattern]()| [MVC Pattern]() |
 | [Object Pool]()| [Bit Flag]()| [Scriptable Object]() |
 | [CSV]() | [Generic Method]()| [Coroutine, DoTween]() |
 | [UI Raycast]() | [Custom Editor]()| <p>$\oldstyle{Made\ By.\ Collect\ Coding\ Forest}$</p>
